@@ -1,2 +1,2 @@
 # OOP345-MS1
-Milestone (1/4) of OOP345 Final Project
+Milestone (1/3) of OOP345 Final Project
